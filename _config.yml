@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 deploy:
   type: git
-  repository: https://github.com/godweiyang/godweiyang.github.io
+  repository: https://phoenixer.github.io/phoenix.github.io/
   branch: master
